@@ -1,1 +1,1 @@
-This is an application based of the tensorflow tutorial MNIST for beginners.
+This is an application based off the tensorflow tutorial MNIST for beginners.
