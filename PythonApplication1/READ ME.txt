@@ -1,0 +1,1 @@
+This is an application based of the tensorflow tutorial MNIST for beginners.
